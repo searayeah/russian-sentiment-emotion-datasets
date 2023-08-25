@@ -1,6 +1,6 @@
-# russian-sentiment-emotions-datasets
+# russian-sentiment-emotion-datasets
 
-This is a collection of __sentiment__ and __emotion__ classification datasets for an easy download. The sentiment datasets are the ones [Smetatin](https://github.com/sismetanin/sentiment-analysis-in-russian) reviewed in their [article](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309730). The single emotion classification dataset [CEDR](https://www.sciencedirect.com/science/article/pii/S1877050921013247) is the only one I found for emotion classifiction in Russian.
+This is a collection of __sentiment__ and __emotion__ text classification datasets for an easy download. The sentiment datasets are the ones [Smetatin](https://github.com/sismetanin/sentiment-analysis-in-russian) reviewed in their [article](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309730). The single emotion classification dataset [CEDR](https://www.sciencedirect.com/science/article/pii/S1877050921013247) is the only one I found for emotion classifiction in Russian. __Additionally, I have a translated [GoEmotions](https://github.com/google-research/google-research/tree/master/goemotions) dataset available on this [Github repository](https://github.com/searayeah/ru-goemotions).__
 
 ## Sentiment classification datasets
 
@@ -15,13 +15,16 @@ This is a collection of __sentiment__ and __emotion__ classification datasets fo
 | Kaggle-Russian-News  | [Kaggle page](https://www.kaggle.com/competitions/sentiment-analysis-in-russian/data) |
 | RuReviews  | [Official GitHub repository](https://github.com/sismetanin/rureviews)  |
 
-Not working download links for SentiRuEval-2015:
-
-- <https://drive.google.com/drive/folders/1f2bIJ-JDxIRCI1gEdEdB1kMe7lGJK02m>
-- <https://drive.google.com/drive/folders/0BxlA8wH3PTUfflI5LUM0SmVvZ1puc2NaalQtWmdEbEw1Yi0zYkl1cjdDN2puelFIRDBHdVU>
-
 ## Emotion classification datasets
 
 | Dataset  | Where I downloaded it |
 | ------------- | ------------- |
 | [CEDR](https://www.sciencedirect.com/science/article/pii/S1877050921013247)  | [Hugging Face page](https://huggingface.co/datasets/cedr) |
+| [ru_goemotions](https://github.com/searayeah/ru-goemotions)  | [Hugging Face page](https://huggingface.co/datasets/seara/ru_go_emotions) |
+
+## Extra
+
+Not working (might me official) download links for SentiRuEval-2015:
+
+- <https://drive.google.com/drive/folders/1f2bIJ-JDxIRCI1gEdEdB1kMe7lGJK02m>
+- <https://drive.google.com/drive/folders/0BxlA8wH3PTUfflI5LUM0SmVvZ1puc2NaalQtWmdEbEw1Yi0zYkl1cjdDN2puelFIRDBHdVU>
