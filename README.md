@@ -1,6 +1,6 @@
 # russian-sentiment-emotion-datasets
 
-This is a collection of __sentiment__ and __emotion__ text classification datasets for an easy download. The sentiment datasets are the ones [Smetatin](https://github.com/sismetanin/sentiment-analysis-in-russian) reviewed in their [article](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309730). The single emotion classification dataset [CEDR](https://www.sciencedirect.com/science/article/pii/S1877050921013247) is the only one I found for emotion classifiction in Russian. __Additionally, I have a translated [GoEmotions](https://github.com/google-research/google-research/tree/master/goemotions) dataset available on this [Github repository](https://github.com/searayeah/ru-goemotions).__
+This is a collection of Russian __sentiment__ and __emotion__ text classification datasets for an easy download. The sentiment datasets are the ones [Smetatin](https://github.com/sismetanin/sentiment-analysis-in-russian) reviewed in their [article](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309730). The single emotion classification dataset [CEDR](https://www.sciencedirect.com/science/article/pii/S1877050921013247) is the only one I found for emotion classifiction in Russian. __Additionally, I have a translated [GoEmotions](https://github.com/google-research/google-research/tree/master/goemotions) dataset available on this [Github repository](https://github.com/searayeah/ru-goemotions).__
 
 ## Sentiment classification datasets
 
