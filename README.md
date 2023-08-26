@@ -24,7 +24,7 @@ This is a collection of Russian __sentiment__ and __emotion__ text classificatio
 
 ## Extra
 
-Not working (might me official) download links for SentiRuEval-2015:
+Not working (might be official) download links for SentiRuEval-2015:
 
 - <https://drive.google.com/drive/folders/1f2bIJ-JDxIRCI1gEdEdB1kMe7lGJK02m>
 - <https://drive.google.com/drive/folders/0BxlA8wH3PTUfflI5LUM0SmVvZ1puc2NaalQtWmdEbEw1Yi0zYkl1cjdDN2puelFIRDBHdVU>
